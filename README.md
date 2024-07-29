@@ -1,2 +1,2 @@
-# CNN_RCDPC
-Capstone project that can classify rice crop diseases and pests.
+# CNN_RCPDI
+Capstone project that can identify rice crop pest and diseases.
